@@ -9,7 +9,7 @@ Demo page for ReDoc, 2018 SVTEP
 ### How to test
 
 ```
-$ git clone https://github.com/Acka1357/ReDoc.git
+$ git clone https://github.com/mlleo/ReDoc.git
 $ cd ReDoc
 $ pip install -r ./requirements.txt
 $ python app.py
